@@ -1,0 +1,5 @@
+# sekrety i pliki robocze nigdy nie trafiają do repo
+*.json
+.secrets
+*.txt
+__pycache__/
